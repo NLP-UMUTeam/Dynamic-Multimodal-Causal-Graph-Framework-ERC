@@ -1,0 +1,99 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,prediction
+39,"No wait, look. Look! I'm sorry, it's just I've never even",Ross,fear,negative,3,1,5,15,"00:06:02,153","00:06:06,823",surprise
+43,"Ugh, can you believe that guy!",Ross,disgust,negative,3,5,5,15,"00:06:26,177","00:06:28,178",surprise
+50,Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!,Joey,fear,negative,4,5,4,14,"00:08:52,532","00:08:58,328",anger
+82,Coming through!  Oh! Coming through!  Oh! Hello! Hi!  No! Right! Coming through!,Phoebe,fear,negative,9,0,6,18,"00:05:02,927","00:05:08,724",joy
+106,I mean theres no way Joeys gonna make it in time.,Rachel,fear,negative,11,1,7,24,"0:09:54,969","0:09:57,431",neutral
+174,Ewww! Oh! Its the Mattress King!,Phoebe,disgust,negative,17,3,3,7,"00:02:12,257","00:02:14,049",joy
+176,Dont look honey. Change the channel! Change the channel!,Chandler,disgust,negative,17,4,3,7,"00:02:14,217","00:02:15,884",fear
+184,Four percent. Okay. I tip more than that when theres a bug in my food.,Ross,disgust,negative,17,12,3,7,"00:13:48,077","00:13:52,580",neutral
+186,"Yeah, Im gonna go to a doctor who went to school in a mini-mall.",Ross,disgust,negative,17,14,3,7,"00:13:58,796","00:14:02,882",neutral
+188,"Im, Im freaking out!",Phoebe,fear,negative,17,16,3,7,"00:14:09,390","00:14:12,225",anger
+189,Monica kinda trusted me with something and she shouldnt have!,Phoebe,fear,negative,17,17,3,7,"00:14:14,270","00:14:18,147",anger
+303,"Look, we have enough, just walk away.",Chandler,fear,negative,29,6,9,19,"0:17:20,248","0:17:22,270",anger
+307,"Ok, go quick!",Chandler,fear,negative,29,10,9,19,"00:17:29,883","00:17:32,427",joy
+315,"You know what, where he hugs you and kinda rolls you away and... Oh... my....God.",Janice,disgust,negative,30,5,3,3,"00:17:15,659","00:17:27,045",surprise
+342,"Oh, its so easy for you I mean, youre not married, you get to have sex with who ever you want!",Rachel,disgust,negative,34,1,6,15,"00:17:48,317","00:17:51,819",joy
+347,"Say it louder, I dont think the guy all the way in the back heard you!",Monica,disgust,negative,34,6,6,15,"00:18:19,181","00:18:21,516",anger
+371,And you got a 'hate' from that?! Your taking a big leap there...,Joey,fear,negative,37,3,3,1,"00:14:07,304","00:14:11,558",disgust
+403,"No, I dont.",Rachel,disgust,negative,41,6,4,14,"0:17:43,937","0:17:45,216",neutral
+499,Im so sorry!,Female Student,fear,negative,50,2,7,7,"00:02:57,886","00:03:00,220",sadness
+506,"To tape the game? You do this every time Ross, youre",Joey,disgust,negative,52,1,8,7,"00:10:26,500","00:10:31,004",neutral
+563,But you will always be the guy who peed on me.,Monica,disgust,negative,57,5,4,1,"00:22:29,848","00:22:32,683",neutral
+592,"Look, not that I enjoy talking about people who I went to high school with, cause I do, but umm, maybe we could talk about something else?",Monica,disgust,negative,61,1,4,2,"00:16:43,919","00:16:52,176",neutral
+618,No way are you cool enough to pull of Clint.,Joey,disgust,negative,65,3,4,18,"00:17:30,466","00:17:33,551",neutral
+665,"What do you think you're gonna do, have sex with her right here    on my couch?",Ross,disgust,negative,70,9,9,12,"00:16:23,565","00:16:27,735",anger
+666,No ... the leather sticks to my ass.,Joey,disgust,negative,70,10,9,12,"00:16:27,945","00:16:31,155",sadness
+693,"I tell ya, that has never happened before.",Joey,fear,negative,71,13,7,19,"00:21:04,137","00:21:07,640",neutral
+711,"Ross-Ross-Ross-Ross! Stay away from that guy , and that guy . And that oneDude! Theyre all huge!",Joey,fear,negative,73,0,4,15,"00:11:26,811","00:11:34,234",joy
+775,Well he made Rachel cry!,Joey,disgust,negative,80,2,4,4,"00:06:56,124","00:06:57,332",anger
+804,Why did I have to start working out again?,Joey,disgust,negative,85,4,6,4,"00:10:36,177","00:10:39,054",surprise
+818,"You guys, can we please not watch this all right.",Joey,disgust,negative,88,2,3,4,"0:00:11,761","0:00:13,513",anger
+845,Arghh!!,Rachel,disgust,negative,92,5,5,11,"00:12:40,009","00:12:41,217",anger
+882,"Umm, see, I was thinking maybe you two could switch apartments because Phoebe's more our kind of people.",Steve,fear,negative,95,17,5,15,"00:13:44,031","00:13:49,369",neutral
+893,"C'mon, we're roommates!  My eyes!! My eyes!!",Chandler,disgust,negative,96,7,1,6,"00:12:30,332","00:12:38,006",anger
+916,Uh-oh!,Joey,fear,negative,97,8,5,22,"0:21:07,224","0:21:07,776",surprise
+941,"Noo!  Oh, its okay, its okay, baby, baby, baby.",Chandler,fear,negative,99,9,3,21,"00:22:29,306","00:22:33,059",sadness
+956,Why are there only two of you?,Phoebe,fear,negative,100,14,6,5,"00:16:10,260","00:16:12,178",surprise
+957,Where is Leslie?,Phoebe,fear,negative,100,15,6,5,"00:16:12,346","00:16:13,930",neutral
+960,Where are you Leslie?,Phoebe,fear,negative,100,18,6,5,"0:16:15,352","0:16:17,738",neutral
+978,"Do you have a minute? Id like to talk to you about something Im, Im really uncomfortable talking about.",Ross,fear,negative,103,2,8,4,"00:06:55,164","00:07:00,127",neutral
+990,Then why are you smoking?,Monica,disgust,negative,106,2,3,17,"00:14:39,712","00:14:41,170",neutral
+1042,Are we okay now?,Mrs. Bing,fear,negative,111,9,1,11,"00:20:00,699","00:20:03,034",neutral
+1050,"I know, but that creep that I went on that date with goes to there so I have to find a new one.",Phoebe,disgust,negative,112,2,8,17,"00:17:38,140","00:17:41,350",sadness
+1051,"I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store",Phoebe,disgust,negative,112,3,8,17,"00:17:41,518","00:17:46,355",sadness
+1117,"Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?",Ross,fear,negative,117,5,6,17,"00:19:15,320","00:19:20,074",neutral
+1130,"This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?",Chandler,fear,negative,118,9,6,18,"00:15:13,954","00:15:20,376",sadness
+1138,But Ben is coming over tonight and he cant see this.,Monica,fear,negative,119,5,8,12,"00:16:59,852","00:17:02,228",anger
+1149,No.,Monica,disgust,negative,120,9,6,3,"00:04:32,146","00:04:33,730",neutral
+1151,"Oh, Im sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.",Monica,disgust,negative,120,11,6,3,"00:04:41,864","00:04:48,745",neutral
+1173,"No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, ""Ha-ha! Gotcha!""",Monica,disgust,negative,123,2,8,5,"00:08:32,094","00:08:39,017",joy
+1180,"Then he comes over!  ""Im so worried about you."" Uck! Be a man!",Phoebe,disgust,negative,123,9,8,5,"00:08:55,117","00:09:01,414",anger
+1184,"Are you kidding?! Another week with that sip, Ill kill",Phoebe,disgust,negative,123,13,8,5,"00:09:10,299","00:09:14,219",anger
+1230,"No-no! Big bear! Big bear outside! I think I-Iwould youactually, would you go check on that?",Rachel,fear,negative,126,4,6,22,"00:10:26,876","00:10:32,631",neutral
+1251,Brenda a bee!,Chandler,fear,negative,128,3,8,7,"0:18:12,841","0:18:13,759",surprise
+1254,I think I know whats going on here.,Brenda,disgust,negative,128,6,8,7,"0:18:21,517","0:18:23,369",neutral
+1256,"Look, I know it must be hard that your wife is a lesbian, but its wrong. Youre married.",Brenda,disgust,negative,128,8,8,7,"00:18:25,479","00:18:34,695",neutral
+1267,"Ohh, God, nobody likes him, and hes so cheap, hed never fly to London in a million years.",Ross,disgust,negative,130,1,4,21,"00:02:32,026","00:02:38,323",sadness
+1330,"I cant-I cant stay here all night, and if I go in there shes-shes gonna wanna... do stuff.",Ross,fear,negative,133,15,4,1,"0:01:29,767","0:01:31,517",sadness
+1360,Who cares? I repel women.,Ross,disgust,negative,138,1,6,7,"00:15:16,081","00:15:18,708",neutral
+1402,Are you gonna break up with me if I get fat again?,Monica,fear,negative,143,5,7,6,"00:16:40,290","00:16:42,709",anger
+1405,A hundred and forty-five pounds.,Chandler,disgust,negative,143,8,7,6,"00:16:47,756","00:16:50,133",neutral
+1463,"Oh, ew!",Phoebe,disgust,negative,151,0,3,2,"00:07:09,637","00:07:10,679",surprise
+1476,"It have a fear of heights, you go to the top of the building!",Joey,fear,negative,153,4,3,4,"00:07:51,387","00:07:54,389",surprise
+1483,"Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",Chandler,fear,negative,153,11,3,4,"00:08:21,000","00:08:26,713",disgust
+1585,"Oh, come on.",Monica,disgust,negative,163,1,8,18,"0:21:18,223","0:21:19,105",neutral
+1606,"I dont know! But maybe if we keep that drawer shut, itll die.",Rachel,disgust,negative,165,3,4,12,"00:21:29,913","00:21:34,375",joy
+1651,Wheres my ring? My dead grandmothers wedding ring? Where is it? Where is it?,Ross,fear,negative,168,8,4,22,"00:16:07,633","00:16:11,678",surprise
+1680,"About a month ago this guy spent the night with Rachel, I didnt see who it was but",Joey,disgust,negative,169,18,8,2,"00:12:35,212","00:12:41,217",neutral
+1688,I wanna see whats in your hand. I wanna see the trash.,Phoebe,disgust,negative,170,3,6,24,"00:17:15,242","00:17:18,036",neutral
+1745,"No seriously, yknow the contracts I gave you, did you overnight them?",Rachel,fear,negative,175,4,7,12,"00:08:10,490","00:08:13,074",neutral
+1749,"Yknow, like the thing when you put the phone in your pants?",Rachel,disgust,negative,175,8,7,12,"00:08:19,749","00:08:22,834",neutral
+1759,Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch!,Rachel,disgust,negative,175,18,7,12,"00:08:55,618","00:09:00,330",anger
+1775,"When youre done over there, we kinda have a situation over here too.",Chandler,fear,negative,178,6,6,5,"00:05:55,855","00:05:59,399",neutral
+1793,"I mean,... how needy is that?",Chandler,disgust,negative,180,9,1,20,"00:22:29,389","00:22:32,808",surprise
+1803,The charity's on fire!,Phoebe,fear,negative,182,3,5,10,"00:09:32,196","00:09:34,072",joy
+1804,Help!,Phoebe,fear,negative,182,4,5,10,"0:09:34,240","0:09:35,702",joy
+1830,"Oh myThis is so embarrassing. Oh my God, Im never gonna get massaged again!",Monica,fear,negative,184,6,8,14,"00:15:00,000","00:15:03,480",surprise
+1862,"Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.",Chandler,disgust,negative,186,0,8,8,"00:07:27,530","00:07:30,699",neutral
+1934,"Okay look, don't...don't be mad okay?",Chandler,fear,negative,195,0,6,7,"00:20:04,870","00:20:07,163",sadness
+1947,"A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!",Monica,disgust,negative,196,1,5,4,"00:14:57,730","00:15:04,444",surprise
+2049,Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!,Monica,fear,negative,205,3,1,20,"00:00:25,150","00:00:29,778",surprise
+2096,Oh my good God.,Chandler,disgust,negative,210,6,6,21,"0:17:29,177","0:17:30,779",surprise
+2177,Whats that smell?,Phoebe,disgust,negative,220,0,2,1,"00:01:44,270","00:05:39,338",neutral
+2200,"Im not worried, Im uh, Im fascinated.",Chandler,fear,negative,223,1,7,1,"00:04:23,846","00:04:27,766",neutral
+2202,"Which is funny because in high school I uh, I-I failed Biology and tonight Biology failed me.",Chandler,fear,negative,223,3,7,1,"00:04:30,895","00:04:37,484",sadness
+2230,"Okay, Ben, I wont tell your daddy that you had ice cream for dinner, if you dont tell about our little bonking incident.",Monica,fear,negative,227,0,3,8,"00:12:07,935","00:12:17,277",neutral
+2278,"Okay, good, good, good, cause, good, cause I was kinda having second thoughts too.",Joey,fear,negative,231,9,3,21,"00:17:36,555","00:17:40,391",sadness
+2279,Okay. And its not just chicks y'know? Its all kinds of other animals!,Chandler,disgust,negative,231,10,3,21,"00:17:40,559","00:17:44,479",surprise
+2280,"Thats horrible! Well, you did the right thing man.",Joey,disgust,negative,231,11,3,21,"00:17:44,646","00:17:47,315",sadness
+2337,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",Joey,disgust,negative,237,3,1,15,"00:07:18,187","00:07:24,818",neutral
+2339,"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn?",Chandler,disgust,negative,237,5,1,15,"00:07:32,785","00:07:40,333",neutral
+2421,"Well lets see, there was the guy with the ferrets, thats plural.",Chandler,disgust,negative,244,6,3,6,"00:02:45,248","00:02:53,881",sadness
+2422,The spitter.,Chandler,disgust,negative,244,7,3,6,"0:02:50,545","0:02:53,590",neutral
+2441,"No-no-no, no!",Monica,fear,negative,245,4,4,15,"00:17:37,139","00:17:39,182",surprise
+2521,"Yeah, save it for the cab, okay.",Ross,disgust,negative,254,2,1,22,"0:21:47,973","0:21:50,159",neutral
+2530,"Okay, hating this.",Chandler,disgust,negative,254,11,1,22,"00:22:04,698","00:22:07,992",neutral
+2533,"That's nice. Get out Let's go, come on.",Ross,disgust,negative,254,14,1,22,"00:22:13,749","00:22:17,710",joy
+2623,"She's not gonna make you wear one of those big plastic cones, is she?",Chandler,fear,negative,263,4,1,21,"00:07:55,975","00:07:59,603",disgust
+2732,Someone on the subway licked my neck! Licked my neck!!,Chandler,disgust,negative,278,0,7,5,"0:00:07,382","0:00:11,014",anger
