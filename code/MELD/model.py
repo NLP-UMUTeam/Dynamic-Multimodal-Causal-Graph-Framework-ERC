@@ -131,6 +131,16 @@ class DynamicCausalGNN(nn.Module):
         dist = (idx[None, :] - idx[:, None]).abs()  # (T,T)
         return dist > self.causal_window  # bool
 
+    # def _temporal_bool_mask(self, T: int, device) -> torch.Tensor:
+    #     # True donde NO se puede atender
+    #     i = torch.arange(T, device=device)[:, None]  # (T,1)
+    #     j = torch.arange(T, device=device)[None, :]  # (1,T)
+    
+    #     # permitido: 0 <= i-j <= W
+    #     allowed = (j <= i) & ((i - j) <= self.causal_window)
+    
+    #     return ~allowed  # True = bloqueado
+
     def _to_additive_mask(self, bool_mask: torch.Tensor) -> torch.Tensor:
         # Convierte bool -> máscara aditiva (0.0 en permitido, -inf en prohibido)
         add = torch.zeros_like(bool_mask, dtype=torch.float32)
