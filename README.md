@@ -38,7 +38,7 @@ Understanding emotions in conversations is a fundamental challenge in affective 
 ### System Architecture
 
 The following figure illustrates the overall architecture of **DMCGES**. The framework processes multimodal inputs (text, audio, and vision) through modality-specific encoders, combines them with a speaker-aware memory module, and performs causal reasoning using a restricted dynamic causal graph. A cross-modal VAE further enhances robustness by reconstructing acoustic features from text and visual cues.
-![DMCGES Architecture](architecture.png)
+![DMCGES Architecture](architecture.pdf)
 
 ---
 
