@@ -126,6 +126,7 @@ This work is part of the research project LaTe4PoliticES (PID2022-138099OB-I00) 
 ---
 
 ### Citation
+```bibtex
 @article{PAN2026104130,
 title = {A Dynamic Multimodal Causal Graph framework for standardized Emotion Recognition in Conversations},
 journal = {Computer Standards & Interfaces},
