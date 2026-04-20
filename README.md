@@ -121,9 +121,21 @@ An ablation analysis confirms:
 ---
 
 ### Acknowledgments
-Pending
+This work is part of the research project LaTe4PoliticES (PID2022-138099OB-I00) funded by MCIN/AEI/10.13039/501100011033 and the European Fund for Regional Development (ERDF)-a way to make Europe.
 
 ---
 
 ### Citation
-Pending
+@article{PAN2026104130,
+title = {A Dynamic Multimodal Causal Graph framework for standardized Emotion Recognition in Conversations},
+journal = {Computer Standards & Interfaces},
+volume = {97},
+pages = {104130},
+year = {2026},
+issn = {0920-5489},
+doi = {https://doi.org/10.1016/j.csi.2026.104130},
+url = {https://www.sciencedirect.com/science/article/pii/S0920548926000048},
+author = {Ronghao Pan and José Antonio García-Díaz and Rafael Valencia-García},
+keywords = {Affective computing, Multimodal emotion recognition, Emotion Recognition in Conversation, Dynamic causal graph, Standardization and interoperability},
+abstract = {Understanding emotions in conversations is a fundamental challenge in affective computing. Emotional expressions evolve dynamically across dialogue turns and depend on multimodal cues such as speech, text, and facial behavior. However, existing multimodal models often rely on global attention mechanisms that overlook causal constraints. This allows information leakage from future turns and neglect of the speaker’s emotional evolution. To address these limitations, we propose the Dynamic Multimodal Causal Graph Emotion System (DMCGES). DMCGES integrates a restricted dynamic causal graph to ensure temporal coherence, as well as a speaker-specific memory module to capture affective trajectories and enhance multimodal alignment and robustness. The framework aligns with the IEEE 7010-2020 standard, which emphasizes integrating human well-being as a fundamental design principle in autonomous and intelligent systems. Experiments on the IEMOCAP and MELD benchmark datasets demonstrate that DMCGES outperforms state-of-the-art approaches in terms of accuracy and F1 score. On the IEMOCAP dataset, DMCGES achieved an accuracy of 69.36% and an F1 score of 69.49%, representing relative improvements of 1.95% and 2.39%, respectively. On the MELD dataset, our model achieved an accuracy of 62.38% and an F1 score of 62.03%, improving upon SACCMA’s results by 0.1% in accuracy and 2.73% in F1 score.}
+}
